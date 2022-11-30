@@ -1,6 +1,7 @@
+
 <h1 align="center">Namaste 🙏🏽 , I'm Preetha</h1>
 <h3 align="center">A certified data scientist in Python and a storyteller. From 🇮🇳, living in 🇨🇳 & second home 🇩🇪</h3>
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/QcPUbmBLzzroNNiFA">
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/6419561-Sending-Email-Using-Java-Latest-Guide">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajinipreethajohn&label=Profile%20views&color=0e75b6&style=flat" alt="rajinipreethajohn" /> </p>
 
