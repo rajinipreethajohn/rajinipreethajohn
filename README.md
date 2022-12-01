@@ -2,11 +2,13 @@
 <p align="center"><img src="https://github.com/rajinipreethajohn/rajinipreethajohn/blob/main/images/code.png" width= "1000"/></p>
 <h1 align="center">Namaste 🙏🏽, I'm Preetha</h1>
 <h3 align="center"> **A certified data scientist in Python and a storyteller. From 🇮🇳, living in 🇨🇳 & second home 🇩🇪**</h3>
-<img align="center" alt="Coding" width="500" src="https://github.com/rajinipreethajohn/rajinipreethajohn/blob/main/images/coder.webp">
+
+<p align="center"><img src="https://github.com/rajinipreethajohn/rajinipreethajohn/blob/main/images/coder.webp" width= "500"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajinipreethajohn&label=Profile%20views&color=0e75b6&style=flat" alt="rajinipreethajohn" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajinipreethajohn" alt="rajinipreethajohn" /></a> </p>
+<h3 align="left">A little more about me:</h3>
+<p **** </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/rajinipreethajohn/Preetha_Portfolio](https://github.com/rajinipreethajohn/Preetha_Portfolio)
 
