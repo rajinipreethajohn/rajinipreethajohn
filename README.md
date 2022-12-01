@@ -1,9 +1,8 @@
-<div id="header" align="center">
-  <img src="https://media1.giphy.com/media/7FrOU9tPbgAZtxV5mb/giphy.gif?cid=ecf05e47pz2h2jw4fjeuhtw7ftl1vb0o7fpttbcwbh0vhx6o&rid=giphy.gif&ct=g" />
-</div>
+
+<p align="center"><img src="https://github.com/rajinipreethajohn/rajinipreethajohn/blob/main/images/code.png" width= "1000"/></p>
 <h1 align="center">Namaste 🙏🏽, I'm Preetha</h1>
-<h3 align="center">A certified data scientist in Python and a storyteller. From 🇮🇳, living in 🇨🇳 & second home 🇩🇪</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/rajinipreethajohn/rajinipreethajohn/blob/main/images/coder.webp">
+<h3 align="center"> **A certified data scientist in Python and a storyteller. From 🇮🇳, living in 🇨🇳 & second home 🇩🇪**</h3>
+<img align="center" alt="Coding" width="500" src="https://github.com/rajinipreethajohn/rajinipreethajohn/blob/main/images/coder.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajinipreethajohn&label=Profile%20views&color=0e75b6&style=flat" alt="rajinipreethajohn" /> </p>
 
