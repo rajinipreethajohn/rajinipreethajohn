@@ -1,6 +1,10 @@
+
+
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/7FrOU9tPbgAZtxV5mb/giphy-downsized-large.gif" width="100"/>
 </div>
+
+
 <h1 align="center">Namaste 🙏🏽 , I'm Preetha</h1>
 <h3 align="center">A certified data scientist in Python and a storyteller. From 🇮🇳, living in 🇨🇳 & second home 🇩🇪</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/rajinipreethajohn/rajinipreethajohn/blob/main/images/coder.webp">
