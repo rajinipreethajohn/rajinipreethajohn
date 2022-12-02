@@ -1,7 +1,7 @@
 
 <p align="center"><img src="https://github.com/rajinipreethajohn/rajinipreethajohn/blob/main/images/code.png" width= "1000"/></p>
-<h1 align="center">Namaste 🙏🏽, I'm Preetha</h1>
-<h3 align="center"> **A certified data scientist in Python and a storyteller. From 🇮🇳, living in 🇨🇳 & second home 🇩🇪**</h3>
+<h1 align="center">Heya 🙏🏽, I'm Preetha</h1>
+<h3 align="center"> **A certified data scientist in Python and a data whisperer. Love everything about data, machine learning and artificial intelligence . Originally from 🇮🇳, living between 🇨🇳 & 🇩🇪**</h3>
 
 <p align="center"><img src="https://github.com/rajinipreethajohn/rajinipreethajohn/blob/main/images/girlcode.gif" width= "500"/></p>
 
