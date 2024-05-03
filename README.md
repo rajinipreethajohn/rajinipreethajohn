@@ -10,8 +10,6 @@
 <h3 align="left">A little more about me:</h3>
 <p **** </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/rajinipreethajohn/Preetha_Portfolio](https://github.com/rajinipreethajohn/Preetha_Portfolio)
-
 - 💬 Ask me about **Data science, machine learning and artificial intelligence**
 
 - 📫 How to reach me **rajinipreethaj@hotmail.com**
