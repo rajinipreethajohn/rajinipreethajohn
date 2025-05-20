@@ -1,7 +1,7 @@
 <div style="background-color: black; padding: 10px;">
 <p align="center"><img src="https://github.com/rajinipreethajohn/rajinipreethajohn/blob/main/images/code.png" width= "1000"/></p>
 <h1 align="center">Heya 🙏🏽, I'm Preetha</h1>
-<h3 align="center"> **A certified data scientist in Python and a data whisperer. Love everything data, machine learning and artificial intelligence with the latest addition of creating stunning art using ComfyUI, fine-tuning LLMs for various tasks, creation of RAG and such. Originally from 🇮🇳, living between 🇨🇳 & 🇩🇪**</h3>
+<h3 align="center"> **A certified data scientist in Python and a data whisperer. Love everything data, machine learning and artificial intelligence. Originally from 🇮🇳, living between 🇲🇾 & 🇩🇪**</h3>
 
 <p align="center"><img src="https://github.com/rajinipreethajohn/rajinipreethajohn/blob/main/images/girl_code.gif" width= "500"/></p>
 
